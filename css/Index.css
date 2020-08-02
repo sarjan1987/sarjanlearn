@@ -1,0 +1,349 @@
+﻿body {
+    background-image: url(http://localhost:1386/CSIMaruthancode/images/backround.png);
+}
+.title img
+{
+    width:100%;
+    }
+.slider
+{
+    }
+.slider img
+{
+    height:100%;
+    }
+.ann1
+{
+    border-style:groove;
+    height:50px;
+    background-color:#ffffffc7;;
+    }
+.ann1 p
+{
+    padding: 6px;
+    font-size: x-large;
+    font-style: normal;
+    font-weight: bold;
+    color: #252a23;
+    font-family: monospace;
+    }
+.footer1 {
+    width: 100%;
+    background-color: White;
+    background-image: url('../images/footer.jpg');
+    font-family: none;
+}
+.footer1a
+{
+    text-align: center;
+	}
+.footer1a a
+{
+    text-decoration: blink;
+    font-size: 20px;
+    font-weight: bold;
+    color:Black;
+	}
+.footer1a a:hover
+{
+	color:Red;
+	}
+.footer2 p a
+{
+    text-decoration:blink;
+    }
+
+.livevideo1
+{
+    width:100%;
+    height:50px;
+    background-color:#8cdbf17a;
+    padding:2px;
+    text-align:center;
+    border-style: ridge;
+    border-color: coral;
+    border-width: 5px;
+    }
+.livevideo2
+{
+    width:100%;
+    height:500px;
+    background-color:transparent;
+    border-style: ridge;
+    border-color: coral;
+    border-width: 5px;
+    border-top:none;
+    }
+.kjv
+{
+    background-color:#3ee89a4a;
+    /*background-color:rgba(76, 158, 217, 0.25);*/
+    border-style: ridge;
+    }
+.manna
+{
+    height:200px;
+    margin-top:20px;
+    margin-bottom:20px;
+    background-color:#daddec7d;
+    -webkit-box-shadow: 3px 3px 5px 6px #da757573;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    3px 3px 5px 6px #da757573;  /* Firefox 3.5 - 3.6 */
+    box-shadow:         3px 3px 5px 6px #da757573;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+    }
+.manna h2
+{
+    text-align:center;
+    }
+.manna p
+{
+    text-align:center;
+    }
+.bible
+{
+    height:200px;
+    margin-bottom:20px;
+    margin-top:20px;
+    background-color:#daddec7d;
+    -webkit-box-shadow: 3px 3px 5px 6px #da757573;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    3px 3px 5px 6px #da757573;  /* Firefox 3.5 - 3.6 */
+    box-shadow:         3px 3px 5px 6px #da757573;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+    }
+.bible h2
+{
+    text-align:center;
+    }
+.bible p
+{
+    text-align:center;
+    }
+.verse
+{
+    height:440px;
+    background-color:#daddec7d;
+    margin-bottom:20px;
+    margin-top:20px;
+    -webkit-box-shadow: 3px 3px 5px 6px #da757573;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    3px 3px 5px 6px #da757573;  /* Firefox 3.5 - 3.6 */
+    box-shadow:         3px 3px 5px 6px #da757573;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+    }
+.verse h2
+{
+    text-align:center;
+    }
+.verse1
+{
+    width:344px;
+    height:344px;
+    margin:auto;
+    }
+.church
+{
+    background-color:White;
+    -moz-box-shadow:    inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow:         inset 0 0 10px #000000;
+    }
+.abtch
+{
+    height:100px;
+    margin:30px;
+    }
+.abtch img
+{
+    margin-left:40px;
+    margin-top:40px;
+    }
+.chuimg
+{
+
+    }
+.chuimg img
+{
+    width:100%;
+    height:90%;
+    }
+.his
+{
+    margin:20px;
+    }
+.his p
+{
+    text-align:justify;
+    padding:5px;
+    margin:10px;
+    }
+.his h3
+{
+    margin:20px;
+    }
+.his1 p
+{
+    text-align:center;
+    margin-left:100px;
+    margin-right:100px;
+    margin-top:10px;
+    font-size: 18px;
+    font-family: monospace;
+    font-weight: bold;
+    color:Red;
+    font-style: italic;
+    }
+.pro
+{
+    background-color:#3ee89a4a;
+    border-style: ridge;
+    }
+.pro1
+{
+
+    height:400px;
+    margin-bottom:20px;
+    margin-top:20px;
+    background-color:#daddec7d;;
+    -webkit-box-shadow: 3px 3px 5px 6px #da757573;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    3px 3px 5px 6px #da757573;  /* Firefox 3.5 - 3.6 */
+    box-shadow:         3px 3px 5px 6px #da757573;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+    }
+.pro1 img
+{
+    width:100%;
+    height:100%;
+    }
+.pro2
+{
+    height:400px;
+    margin-bottom:20px;
+    background-color:#daddec7d;;
+    -webkit-box-shadow: 3px 3px 5px 6px #da757573;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    3px 3px 5px 6px #da757573;  /* Firefox 3.5 - 3.6 */
+    box-shadow:         3px 3px 5px 6px #da757573;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+    }
+.pro2 img
+{
+    width:100%;
+    height:100%;
+    }
+.pro3
+{
+    height:820px;
+    margin-top:20px;
+    margin-bottom:20px;
+    background-color:#daddec7d;;
+    -webkit-box-shadow: 3px 3px 5px 6px #da757573;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+    -moz-box-shadow:    3px 3px 5px 6px #da757573;  /* Firefox 3.5 - 3.6 */
+    box-shadow:         3px 3px 5px 6px #da757573;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+    }
+.pro3 img
+{
+    width:100%;
+    height:100%;
+    }
+.live
+{
+    height:200px;
+    background-color:#516f6a4d;
+    margin-bottom:20px;
+    margin-top:20px;
+    border-style: groove;
+    }
+.live h5
+{
+    text-align:center;
+    }
+.ann2
+{
+    background-color:#516f6a4d;
+    margin-bottom:20px;
+    margin-top:20px;
+    border-style: groove;
+    border-radius:10px;
+    min-height:394px;
+    }
+.ann2 h4
+{
+    text-align:center;
+    }
+.ann2a
+{
+    background-color: #b4cfa694;
+    -moz-box-shadow:    inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow:         inset 0 0 10px #000000;
+    }
+.ann2b
+{
+    width:96%;
+    height:344px;
+    background-color:#bed4be8c;
+    margin-left:2%;
+    }
+.ann2b p
+{
+    text-align:justify;
+    margin:5px;
+    }
+.jeimg1
+{
+    background-color: #b4cfa694;
+    -moz-box-shadow:    inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow:         inset 0 0 10px #000000;
+    }
+.jeimgverse
+{
+    background-color:#516f6a4d;
+    margin-top:20px;
+    border-style: groove;
+    border-radius:10px;
+    }
+.jeimgverse p
+{
+    text-align:center;
+    margin:10px;
+    padding:3px;
+    color:Black;
+    font-family: monospace;
+    font-weight: bold;
+    font-style: italic;
+    font-size:large;
+    }
+.jeimg
+{
+    background-color:Lime;
+    margin-bottom:20px;
+    margin-top:10px;
+    border-radius:10px;
+    }
+.jeimg img
+{
+    height:100%;
+    width:100%;
+    border-radius:10px;
+    }
+.live1
+{
+    width:200px;
+    height:100px;
+    margin:auto;
+    }
+.live1a
+{
+    width:150px;
+    height:150px;
+    margin:auto;
+    }
+.live2
+{
+    background-color: #b4cfa694;
+    -moz-box-shadow:    inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow:         inset 0 0 10px #000000;
+    }
+.date
+{
+    font-family: unset;
+    font-size: smaller;
+    font-style: italic;
+    font-weight: bold;
+    color: ghostwhite;
+    }

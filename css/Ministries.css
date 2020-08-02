@@ -1,0 +1,29 @@
+﻿body {
+}
+.pray1
+{
+    background-color:#ccf1b58a;
+    border-style:ridge;
+    }
+.pray2
+{
+    border-style:outset;
+    margin-top:15px;
+    margin-bottom:15px;
+    }
+.pray2 h2
+{
+    text-align:center;
+    }
+.pray2 p
+{
+    text-align:justify;
+    padding:5px;
+    margin:5px;
+    }
+.ministries1
+{
+    height:500px;
+    background-color:Gray;
+    border-style:groove;
+    }

@@ -1,0 +1,112 @@
+﻿body {
+}
+.gal1
+{
+    background-color: #dc9d9d73;
+    box-shadow: 0px 0px 5px 5px darkgoldenrod inset;
+    }
+.gal2
+{
+    margin-bottom:20px;
+    margin-top:20px;
+    box-shadow: 5px 5px black;
+    }
+.gal3
+{
+    background-color: #0037ff3b;
+    border: groove;
+    }
+.foldimg
+{
+    height:250px;
+    }
+.foldname
+{
+    height:75px;
+    background-color:#dcdc3bc4;
+    }
+.foldname h5
+{
+    text-align:center;
+    padding:3px;
+    }
+.foldname p
+{
+    text-align:center;
+    }
+.imgtitle
+{
+    background-color:#d49999b5;
+    }
+.imgtitle h4
+{
+    text-align:center;
+    padding:12px;
+    }
+.imggal
+{
+    background-color: #3dd23d78;
+    border-style: outset;
+    box-shadow: 0px 0px 5px 5px #dc9292 inset;
+    -moz-box-shadow: 0px 0px 5px 5px #dc9292 inset;
+    -webkit-box-shadow: 0px 0px 5px 5px #dc9292 inset;
+    }
+.imggal1
+{
+    margin:10px 40px;
+    }
+.imggal1 img
+{
+    transition:1s;
+    padding:15px;
+    width:200px;
+    }
+.imggal1 img:hover
+{
+    filter:grayscale(100%);
+    transform:scale(1.1);
+    }
+.pag
+{
+    margin:10px;
+    }
+.pag li
+{
+    margin: 5px;
+    background-color: #e9f3f5bf;
+    border-radius: 25px;
+    padding: 5px;
+    margin-top: 5px;
+    }
+.pag li:hover
+{
+    background-color:Orange;
+    }
+.pag li a
+{
+    text-decoration: none;
+    color: #0c000c;
+    text-align: center;
+    font-family: monospace;
+    font-size: 14px;
+    }
+.pag li a:hover
+{
+    color:Green;
+    }
+.dravid
+{
+    background-color:#dfe0e1a6;
+    margin-bottom:20px;
+    margin-top:20px;
+    border-radius:20px;
+    }
+.dravid h5
+{
+    text-align:center;
+    }
+.dravid1
+{
+    width:100%;
+    height:200px;
+    }
